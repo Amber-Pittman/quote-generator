@@ -31,4 +31,4 @@ const localQuotes = [
         text: 'Once a year, go somewhere you have never been before.',
         author: 'Dalai Lama',
     }
-]
+];
